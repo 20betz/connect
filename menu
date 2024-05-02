@@ -1,0 +1,82 @@
+{
+  "message": "",
+  "error": 0,
+  "data": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Football",
+        "img": "https://i.ibb.co/brGMPJP/2024-05-02-16-00-52.png",
+        "price": 30,
+        "created_at": null,
+        "goods": [
+          {
+            "id": 90,
+            "name": "Augusta Unisex Game Socks",
+            "img": "https://i.ibb.co/brGMPJP/2024-05-02-16-00-52.png",
+            "price": 200,
+            "mass": "200g"
+          },
+          {
+            "id": 91,
+            "name": "H5-Men-s-Genesis-Soccer-Jersey",
+            "img": "https://i.ibb.co/LgYMQLx/H5-Men-s-Genesis-Soccer-Jersey.jpg",
+            "price": 250,
+            "mass": "250g"
+          },
+			{
+            "id": 92,
+            "name": "H5-Men-s-Primo-Soccer-Short",
+            "img": "https://i.ibb.co/fXwJp2r/H5-Men-s-Primo-Soccer-Short.jpg",
+            "price": 300,
+            "mass": "250g"
+          },
+			{
+            "id": 93,
+            "name": "H5-Men-s-Wembley-Soccer-Jersey",
+            "img": "https://i.ibb.co/Xt596bR/H5-Men-s-Wembley-Soccer-Jersey.jpg",
+            "price": 350,
+            "mass": "250g"
+          },
+			{
+            "id": 94,
+            "name": "SU-Youth-Lightning-Sublimated-Soccer-Uniform",
+            "img": "https://i.ibb.co/PT49D4V/SU-Youth-Lightning-Sublimated-Soccer-Uniform.jpg",
+            "price": 700,
+            "mass": "250g"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Basketball",
+        "img": "https://i.ibb.co/s2SJ8LC/basket-t-shirt.jpg",
+        "price": 35,
+        "created_at": null,
+        "goods": [
+          {
+            "id": 101,
+            "name": "basket-t-shirt",
+            "img": "https://i.ibb.co/s2SJ8LC/basket-t-shirt.jpg",
+            "price": 250,
+            "mass": "250g"
+          },
+          {
+            "id": 102,
+            "name": "H5-Youth-7-Competition-Reversible-Basketball-Short",
+            "img": "https://i.ibb.co/WcVCy5M/H5-Youth-7-Competition-Reversible-Basketball-Short.jpg",
+            "price": 300,
+            "mass": "250g"
+          },
+			{
+            "id": 103,
+            "name": "SU-Men-s-Custom-Wicking-Reversible-Basketball-Uniform",
+            "img": "https://i.ibb.co/D8cX101/SU-Men-s-Custom-Wicking-Reversible-Basketball-Uniform.jpg",
+            "price": 700,
+            "mass": "250g"
+          }
+        ]
+      }
+    ]
+  }
+}
